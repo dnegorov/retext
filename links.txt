@@ -1,0 +1,43 @@
+Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта
+https://habr.com/ru/company/rostelecom/blog/570098/
+https://squidfunk.github.io/mkdocs-material/
+
+
+Static Site Generator — Новая документация 
+https://habr.com/ru/post/589457/
+
+Как сделать генерацию LaTeX и PDF в Sphinx
+https://habr.com/ru/post/328182/
+
+Делаем учебник или документацию за час на Сфинксе
+https://habr.com/ru/post/151129/
+
+
+sphinx to latex
+https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-latex-output
+
+https://sphinx-ru.readthedocs.io/ru/latest/index.html
+
+
+latex online
+https://www.overleaf.com/project/62dd3461acda482feb93dd97
+
+
+tex editor
+TEXMAKER
+https://www.xm1math.net/texmaker/download.html
+
+https://blog.themarfa.name/10-biesplatnykh-latex-riedaktorov/
+
+
+ReText — редактор для Markdown и reStructuredText
+https://habr.com/ru/post/161669/
+
+
+https://tableconvert.com/restructuredtext-generator
+
+
+https://restructuredtext.ru/
+
+
+
