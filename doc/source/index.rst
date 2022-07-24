@@ -7,7 +7,7 @@ Welcome to test-project's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 4
+  :maxdepth: 4
 
   test
   test-include

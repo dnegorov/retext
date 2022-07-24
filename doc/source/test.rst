@@ -32,9 +32,6 @@ header4
 
 line
 
-.. |printer|   unicode:: U+1F5B6
-
-unicode {|printer|}
 
 Формула в предложении :math:`a^2 + b^2 = c^2`.
 
@@ -54,7 +51,6 @@ _________________________________
 
 
 
-unicode {|printer|}
 
 +--------------------------------+-----------------------------------+
 | Paragraphs are flush-left,     | Literal block, preceded by "::":: |

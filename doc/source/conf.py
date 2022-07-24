@@ -41,8 +41,8 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'ru-RU'
-epub_language = 'ru-Ru'
+language = 'ru'
+epub_language = 'ru'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -80,7 +80,7 @@ latex_elements = {
     'preamble': '\\usepackage[utf8]{inputenc}',
     'babel': '\\usepackage[russian]{babel}',
     'cmappkg': '\\usepackage{cmap}',
-#    'fontenc': '\usepackage[T1,T2A]{fontenc}',
+    'fontenc': '\\usepackage[T1,T2A]{fontenc}',
     'utf8extra':'\\DeclareUnicodeCharacter{00A0}{\\nobreakspace}',
 
     # Latex figure (float) alignment
