@@ -1,2 +1,2 @@
 # retext
- retext test
+ retext
