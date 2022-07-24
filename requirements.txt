@@ -1,4 +1,6 @@
 docutils
 sphinx
 retext
+PyQt6-WebEngine
+pyenchant
 
